@@ -45,7 +45,7 @@ Fontovi se importuju putem **Google Fonts** direktno u `<head>` HTML dokumenta. 
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 ```
 
-## Fontovi
+## Način korišćenja
 
 Preuzmite ili klonirajte repozitorijum.
 Otvorite index.html u bilo kom modernom web pregledniku.
